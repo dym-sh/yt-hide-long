@@ -1,0 +1,7 @@
+title        "yt-hide-long"
+description  "Hide LONG (over 2:00:00 – two hours) videos on YouTube's pages"
+media-type   "userscript"
+tags         "scripts"  "js"  "youtube"
+license      "CC0"
+homepage     "https://dym.sh/yt-hide-long/"
+source       "https://source.garden/scripts/yt-hide-long/"
